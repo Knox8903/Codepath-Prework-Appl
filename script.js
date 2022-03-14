@@ -17,6 +17,7 @@ function startGame(){
   createPattern();
   //initialize game variables
   progress = 0;
+  clueHoldTime = 1000;
   mistakes = 0;
   gamePlaying = true;
   document.getElementById("startBtn").classList.add("hidden");
