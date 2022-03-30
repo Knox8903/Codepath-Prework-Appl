@@ -47,9 +47,11 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
+
 Stackoverflow (https://stackoverflow.com/questions/6910049/on-a-css-hover-event-can-i-change-another-divs-styling)
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
+
 Three challenges arose while implementing some optional features. Specifically, the image buttons, audio buttons, and timer caused some problems. 
 
 While implementing the image buttons, I had trouble affecting the CSS rules of one image when another is pressed. 
@@ -64,12 +66,14 @@ The final issue was failing to stop every timer that started, I know now that fo
 I wish I knew that sooner, it would've saved me 30 minutes of pain.
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
+
 I found that making adjustments to my code to make it perform better, as well as being more efficient and modular felt pretty good when it worked out, so that's certainly a goal I have in mind. 
 Another goal would be to make the webpage look more appealing and implement moving elements that could appeal to the user. 
 Finally, I want to begin work in a group environment to see how well I would perform, I think I would do well since I like to hyper focus on one thing, so a situation where work is split up amongst individuals sounds very enjoyable. 
 So for my questions, I would ask: how do I make my code more efficient, how do I make my CSS more appealing, and how enjoyable is group work in an organized environment?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
+
 If I had more time to work on this project, I would spend a lot of time cleaning up my code and making the interface more intuitive and look better. 
 Specifically, I wanted to make a timer that would only show when the user has 3 seconds left, I also thought it would be cool if the timer would slide in from the left or right when this 3 second condition was active. 
 I couldn't find time to implement this, though, since I wasn't sure how I could implement moving elements in an efficient way, I was also already having trouble making the timer work, so I ended up scrapping the idea since I still had things to complete. 
