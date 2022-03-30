@@ -40,10 +40,10 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-[X] http://g.recordit.co/yW2MaCwMix.gif Gameplay Loop
-[X]http://g.recordit.co/JCi5iI82QT.gif Mistakes
-[X]http://g.recordit.co/QBTnmwAlCK.gif Timeout
-[X] http://g.recordit.co/Xvh2jLJIOO.gif Game Completion (you can't see the buttons move that well since, by this point in the game, the clues are pretty fast)
+* [X] http://g.recordit.co/yW2MaCwMix.gif Gameplay Loop
+* [X] http://g.recordit.co/JCi5iI82QT.gif Mistakes
+* [X] http://g.recordit.co/QBTnmwAlCK.gif Timeout
+* [X] http://g.recordit.co/Xvh2jLJIOO.gif Game Completion (you can't see the buttons move that well since, by this point in the game, the clues are pretty fast)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
